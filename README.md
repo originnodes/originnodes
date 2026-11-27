@@ -1,7 +1,11 @@
 <h1 align="center">Welcome to OriginNodes ⚡</h1>
 <h3 align="center">Independent Blockchain Validator Organization | Reliable Infrastructure | Securing Decentralized Networks</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=originnodes](https://raw.githubusercontent.com/originnodes/originnodes/refs/heads/main/logo.png)" alt="originnodes" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=originnodes" alt="originnodes" />
+  </a>
+</p>
 
 - 🛠️ We're currently working on **Operating validator infrastructure and contributing to the reliability, security and decentralization of blockchain networks.**
 
