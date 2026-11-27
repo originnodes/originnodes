@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=originnodes" alt="originnodes" />
+    <img src="https://raw.githubusercontent.com/originnodes/originnodes/refs/heads/main/logo.png" alt="originnodes" />
   </a>
 </p>
 
